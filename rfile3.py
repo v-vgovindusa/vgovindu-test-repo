@@ -1,1 +1,1 @@
-/ Microsoft reserved
+# Copyright (c) Microsoft Corporation. All rights reserved.
